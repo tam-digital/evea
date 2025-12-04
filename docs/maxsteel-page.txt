@@ -1,0 +1,101 @@
+SAYFA BAŞLIĞI: Maxsteel ERP – Metal Sektörü İçin Özel Geliştirilmiş ERP Platformu
+
+🎯 GİRİŞ – Maxsteel Nedir?
+Maxsteel ERP, metal sektörüne özel olarak geliştirilmiş, %100 web tabanlı, entegre ve parametrik bir kurumsal kaynak planlama (ERP) platformudur. Maxsteel, özellikle bobin, rulo, sac, profil, çubuk gibi ürünlerle çalışan işletmelerin kompleks süreçlerine tam uyum sağlayacak şekilde tasarlanmıştır.
+
+Sistem; üretimden stoğa, satıştan kalite kontrolüne kadar tüm iş süreçlerini dijitalleştirir ve merkezileştirir. Maksimum operasyonel verimlilik, gerçek zamanlı karar alma ve sıfır bilgi kaybı hedefiyle çalışır.
+
+---
+
+🧩 MODÜLER MİMARİ – Tüm Süreçler Entegre
+Maxsteel ERP, aşağıdaki modülleriyle tüm kurumsal süreçleri uçtan uca entegre eder:
+
+- Satın Alma & Tedarikçi Yönetimi
+- Stok ve Depo Yönetimi (Palet, Bobin, Barkodlu Giriş/Çıkış)
+- Üretim Planlama & Fason Takibi
+- Satış, CRM ve Müşteri Sözleşmeleri
+- Kalite Kontrol & Ölçüm Test Raporları
+- Finans, Muhasebe, E-Defter
+- İnsan Kaynakları & Puantaj Sistemi
+- Varlık Yönetimi & Bakım Onarım
+- İş Zekâsı (BI), Dashboard ve KPI Takibi
+
+Tüm bu modüller, tek veri tabanı üzerinde çalışır, aralarında veri bütünlüğü sağlar. Böylece stoklarda bir değişiklik olduğunda hem finansal hem üretim hem de kalite tarafında otomatik etkileşim tetiklenir.
+
+---
+
+🏭 SEKTÖREL ÖZELLİKLER – Metal Endüstrisine Tam Uyum
+Maxsteel ERP, genel bir ERP sistemi değildir. Metal sektörü için doğrudan optimize edilmiştir:
+
+🔹 Bobin, Rulo, Levha, Dilme, Boy Kesme Süreçleri:  
+→ Malzemenin her bir dönüşümünü teknik detaylarla (kalınlık, genişlik, metraj, kalite, lot numarası) kayıt altına alır.  
+→ Her bir bobin veya levha, ayrı barkod ve QR ile sistemde izlenebilir.
+
+🔹 Fire & Hurda Hesaplama Otomasyonu:  
+→ Üretim sırasında oluşan fireler tanımlanabilir, otomatik hesaplanır.  
+→ Müşteri bazlı fire toleransları tanımlanabilir.
+
+🔹 Fason Üretim & İş Emri Yönetimi:  
+→ Dışarıya gönderilen işlemler (örneğin boy kesim, dilme, taşlama) için ayrı iş emirleri açılır.  
+→ Giriş/çıkış zamanı, fasoncu performansı, maliyetler izlenebilir.
+
+🔹 Ağırlık Bazlı Satış & Metraj Takibi:  
+→ Fiyatlandırma; kilogram, metraj, kalınlık, kalite gibi değişkenlere göre otomatik yapılır.  
+→ Satış siparişleri rezervasyon sistemiyle birlikte çalışır.
+
+🔹 Özel Sipariş Takibi & Ürün Konfigürasyonu:  
+→ Her müşteri için özel ölçü, kalite, test raporu, teslimat tarihi gibi parametreler tanımlanabilir.  
+→ Özel üretimlerde onay-mühendislik süreci dahil edilebilir.
+
+---
+
+⚙️ TEKNİK MİMARİ & ESNEKLİK
+Maxsteel’in yazılım altyapısı parametrik yapıdadır. İşletme bazlı özelleştirmeler teknik destek almadan yapılabilir.
+
+- %100 Web tabanlı (mobil, tablet uyumlu)
+- Cloud & Lokal kurulum seçenekleri
+- Rol bazlı yetkilendirme & veri güvenliği
+- Barkod ve RFID sistemleriyle entegre
+- REST API ile diğer sistemlerle kolay entegrasyon (PLC, SCADA, MES, CRM)
+- Otomatik veri yedekleme ve loglama
+- E-fatura, E-arşiv, E-defter uyumluluğu
+
+---
+
+📊 İŞ ZEKASI VE KARAR DESTEK
+Sistemle birlikte gelen BI modülü ile:
+
+- Satış kar marjı analizi
+- Üretim performans grafikleri
+- Fire/hurda takibi
+- Müşteri sipariş davranışı analizi
+- Satın alma tedarikçi puanlama
+- Stok yaşlandırma, ABC analizi
+- Detaylı KPI bazlı panolar
+
+---
+
+📈 DİJİTAL DÖNÜŞÜM FAYDALARI
+- İş gücü verimliliğinde %40’a varan artış  
+- Hatalı üretim ve sevkiyatta %60’a varan azalma  
+- Sipariş teslim süresi ortalamasında %35 iyileşme  
+- Gerçek zamanlı stok doğruluğu: %99+  
+- Süreçler arası iletişim %100 otomatize  
+- Departmanlar arası bilgi paylaşımında %90 hızlanma
+
+---
+
+🧠 KULLANIM SENARYOLARI
+✅ Operatör, dokunmatik panelden iş emrini başlatır → sistem gerçek zamanlı üretim verisi toplar  
+✅ Satış temsilcisi, CRM’den teklif girer → üretim planı ve stok otomatik kontrol edilir  
+✅ Depo görevlisi, bobin barkodunu okutur → sistem ağırlık, kalite ve lot bilgilerini otomatik çeker  
+✅ Kalite departmanı, fiziksel test sonuçlarını girer → test sertifikası otomatik oluşturulur
+
+---
+
+📩 HAREKETE GEÇ!  
+Maxsteel ERP ile işletmenizi dijitalleştirmek, verimliliği artırmak ve rekabet avantajı kazanmak için şimdi bizimle iletişime geçin.
+
+👉 [Demo Talep Et]  
+👉 [Teknik Özellikleri İndir]  
+👉 [Referanslarımızı İncele]

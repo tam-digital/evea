@@ -1,0 +1,47 @@
+
+Sıkça Sorulan Sorular – Maxsteel ERP Hakkında
+
+1. Maxsteel ERP’nin diğer ERP sistemlerinden farkı nedir?
+Maxsteel ERP, saha deneyimiyle şekillendirilmiş sektörel bir çözümdür. Genel amaçlı ERP sistemlerinden farklı olarak, üretim ve metal sektörüne özel kurgulanmış iş akışları ve modüllerle gelir. Standart yazılımlar yerine, işletmenizin süreçlerine birebir uyum sağlar.
+
+2. Hangi büyüklükteki işletmeler için uygundur?
+Maxsteel ERP, küçük, orta ve büyük ölçekli üretim tesisleri için modüler olarak ölçeklenebilir. 10 kişilik bir atölyeden 500+ kişilik entegre bir tesise kadar sistem aynı verimle çalışır. İhtiyacınız kadarını alır, büyüdükçe genişletirsiniz.
+
+3. Üretim süreçlerine nasıl entegre oluyorsunuz?
+Üretim planlama, rotalama, iş emri yönetimi, hammadde takibi ve atölye geribildirimleri Maxsteel ERP’nin çekirdeğindedir. Operasyonel süreçlerinizi detaylı analiz ettikten sonra yazılımı sahadaki gerçek ihtiyaçlarınıza göre konumlandırıyoruz. PLC ve barkod sistemlerine entegre çalışabiliriz.
+
+4. Metal sektörüne özel ne tür özellikleriniz var?
+Maxsteel ERP, sac kesim, boru büküm, CNC üretim, kaynak, montaj ve boyahane gibi tüm operasyon tiplerini kapsar. Stoklar ton, kilogram, metre gibi farklı birimlerde takip edilir. Fire yönetimi, hurda takibi ve üretim reçeteleri detaylı biçimde yapılandırılabilir.
+
+5. Sahada çalışacak personel için kullanım kolaylığı var mı?
+Evet. Sahada çalışan personel için özel olarak tasarlanmış mobil uyumlu paneller ve dokunmatik ekran destekli arayüzlerimiz mevcut. Kullanıcı dostu arayüzlerimiz sayesinde eğitim süreci kısa, adaptasyon süreci hızlıdır.
+
+6. Hangi modüller mevcut?
+Maxsteel ERP; Üretim, Stok & Depo, Satın Alma, Satış & Teklif, Finans & Cari, CRM, Kalite Kontrol, İnsan Kaynakları ve İş Emniyeti gibi 12 temel modülden oluşur. Her biri bağımsız çalışabilir, ihtiyacınıza göre devreye alınır.
+
+7. Eski verilerimizi sisteme aktarabilir miyiz?
+Evet. Mevcut Excel dosyalarınızdan veya eski yazılımlarınızdan veri aktarımı için araçlarımız ve ekibimiz hazır. Tanımlar, cari hesaplar, stoklar ve geçmiş işlemler güvenli bir şekilde sisteme entegre edilir.
+
+8. Kurulum ve devreye alma süreci ne kadar sürer?
+Bu tamamen işletmenizin büyüklüğüne ve ihtiyaç duyulan modüllerin sayısına bağlıdır. Ortalama bir kurulum ve eğitim süreci 3–8 hafta arasında tamamlanmaktadır.
+
+9. ERP sonrası destek hizmetiniz var mı?
+Evet, sistemin canlıya alınmasından sonra eğitim, teknik destek ve danışmanlık süreçleri devam eder. Size özel tanımlanan destek kanalları ve güncelleme planlamaları ile her zaman yanınızdayız.
+
+10. Kendi raporlarımı ve panolarımı oluşturabilir miyim?
+Kesinlikle. Maxsteel ERP içerisinde gelişmiş bir raporlama altyapısı yer alır. Dilerseniz hazır raporları kullanabilir, dilerseniz kendi filtrelerinize göre özel dashboard’lar oluşturabilirsiniz. Gerçek zamanlı KPI izleme mümkündür.
+
+11. İthalat ve ihracat yapan firmalar için uygun mu?
+Evet. Gümrük işlemleri, dövizli alış/satış, uluslararası fiyatlandırma ve dış ticaret belgeleri gibi ihtiyaçlar için destek sunuyoruz. Dış ticaret modülümüzle entegre çalışabilirsiniz.
+
+12. Kendi muhasebecimize entegre çalışabiliyor mu?
+İsterseniz sistem içi finans modülünü kullanabilir, isterseniz LOGO, Mikro gibi yaygın muhasebe programlarına veri aktarımı sağlayabilirsiniz. Cari mutabakatlar ve ödeme planları tam uyumlu şekilde yönetilir.
+
+13. Üretim dışındaki ofis süreçlerini de yönetebilir miyim?
+Evet. CRM, insan kaynakları, görev takibi, iş emniyeti, teklif yönetimi ve doküman yönetimi gibi modüllerimizle üretim dışı tüm süreçlerinizi dijitalleştiriyoruz.
+
+14. Güvenlik ve yedekleme nasıl sağlanıyor?
+Tüm sistemlerimiz SSL sertifikalarıyla korunur ve günlük otomatik yedekleme sistemine sahiptir. Dilerseniz sunucularınızda lokal kurulum yapılır, dilerseniz güvenli bulut altyapımız üzerinden erişim sağlanır.
+
+15. Sistemi denemeden karar vermek istemiyoruz. Demo imkânınız var mı?
+Elbette! İletişim sayfamızdan bizimle iletişime geçerek sizin sektörünüze özel hazırlanmış bir demo ortamında sistemi deneyimleyebilirsiniz. Ayrıca yerinde keşif ve analiz hizmeti de sunuyoruz.

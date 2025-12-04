@@ -1,0 +1,99 @@
+
+EVEA BİLİŞİM - MAXSTEEL ERP KURUMSAL WEBSITE BRIEF
+==================================================
+
+PROJE AMACI
+-----------
+Evea Bilişim’in metal sektörüne özel geliştirdiği Maxsteel ERP yazılımını tanıtmak amacıyla kurumsal bir web sitesi oluşturulacaktır. Site; şirketin yazılım gücünü, sektörel deneyimini ve ürün kapsamını güçlü bir biçimde sergileyecek, aynı zamanda ziyaretçileri demo talep formu ve iletişim kanallarına yönlendirecek yapıda olacaktır.
+
+Bu site, üst düzey framework’lere ihtiyaç duymadan sade HTML, CSS ve JavaScript ile inşa edilecektir.
+
+HEDEF KİTLE
+-----------
+- Çelik servis merkezleri, boru-profil üreticileri, haddehaneler
+- Karar vericiler: Genel Müdür, Üretim Müdürü, CIO, Operasyon Direktörü
+- Türkiye odaklı, kurumsal müşteriler
+
+TASARIM REHBERİ
+---------------
+Yazı Tipi:
+- Başlıklar: Montserrat (Google Fonts üzerinden)
+- Gövde Metni: Proxima Nova (Yoksa alternatif olarak Open Sans veya Roboto)
+
+Renkler:
+- Koyu Mavi: #002F5D (Ana kurumsal renk)
+- Turuncu/Sarı: #F58220 (CTA ve vurgular)
+- Gri Tonları: #555555, #888888 (Metin ve ikonlar)
+- Açık Yeşil: #7AC943 (Pozitif durumlar, destekleyici renk)
+
+BUTON STİLİ
+-----------
+- Primary: Turuncu arka plan, beyaz yazı, border-radius: 6px
+- Secondary: Mavi arka plan, beyaz yazı
+- Hover durumunda %10 koyulaşma
+
+SİTE HARİTASI (HTML SAYFA DOSYALARI)
+------------------------------------
+1. index.html             → Ana Sayfa
+2. hakkimizda.html        → Hakkımızda
+3. maxsteel.html          → Maxsteel ERP genel tanıtım
+4. moduller.html          → Modüller listesi (Üretim, Stok, Kalite vb.)
+5. sektorler.html         → Sektörel çözümler
+6. referanslar.html       → Referans logoları ve müşteri yorumları
+7. blog.html              → Blog/kaynaklar listesi
+8. demo.html              → Demo talep formu
+9. iletisim.html          → İletişim formu
+
+HER SAYFADA BULUNACAK GENEL ÖGELER
+-----------------------------------
+- Sabit header: Logo, menü, “Demo Talep Et” butonu
+- Footer: Hızlı menü linkleri, sosyal medya ikonları, iletişim bilgisi
+- Tüm sayfalarda responsive (mobil uyumlu) tasarım
+- Form alanları: JS ile basit doğrulama ve gönderim mesajı
+
+MODÜLLER (moduller.html)
+--------------------------
+- Üretim Yönetimi
+- Kalite & Ürün Tasarımı
+- Stok Yönetimi
+- Satış Sipariş Yönetimi
+- Satınalma Yönetimi
+- Üretim Planlama & Kapasite
+- Finans & Muhasebe
+- CRM & Süreç Yönetimi
+- Raporlama & Analitik
+
+DEMO FORMU (demo.html)
+------------------------
+- Alanlar: Ad Soyad, Firma, E-posta, Telefon, İlgi Duyduğu Modüller (checkbox), Mesaj
+- Submit sonrası basit JS ile “Teşekkürler” mesajı
+- Backend entegrasyonu yok – istek halinde mailto veya webhook yapılabilir
+
+REFERANSLAR (referanslar.html)
+-------------------------------
+- Eski Workcube projeleri: Tat Metal gibi örnekler
+- Şu an kendi lisansları altında sürdürülen projeler
+- Logo grid tasarımı + 1–2 kısa müşteri yorumu (testimonials)
+
+SEKTÖRLER (sektorler.html)
+----------------------------
+- Çelik Servis Merkezleri
+- Haddehaneler
+- Boru Profil Üretimi
+- Sürekli Döküm Tesisleri
+
+İÇERİK KAYNAKLARI
+------------------
+- “Evea Maxsteel Presentation.pdf” dosyasındaki tüm ERP fonksiyon modülleri
+- “Workcube Metal Bülteni.pdf” dosyasındaki sektörel uzmanlık, referans geçmişi
+
+TEKNİK YAPILANDIRMA
+-------------------
+- Plain HTML5, CSS3, Vanilla JS
+- Responsive yapı (media queries)
+- Google Fonts entegrasyonu (Montserrat)
+- Basit JS ile form doğrulama (email kontrolü, boş alan engeli)
+- Görsel formatlar: SVG ikonlar, JPG/PNG mockuplar, client logosu grid
+
+----------------------------------------------------
+Bu brief, yapay zeka destekli editörler (Cursor, VSCode Copilot vb.) için tüm içerik ve yapısal rehberi sağlamaktadır.

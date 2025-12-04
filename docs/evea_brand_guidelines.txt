@@ -1,0 +1,36 @@
+
+EVEA BİLİŞİM - BRAND DESIGN GUIDELINES
+======================================
+
+📌 TYPOGRAPHY
+--------------
+- Headings (H1, H2, H3): Montserrat (Bold / SemiBold)
+- Body Text: Proxima Nova (Regular)
+- Accent / Highlights: Caveat (isteğe bağlı vurgu için)
+
+📌 COLOR PALETTE
+----------------
+1. Kurumsal Mavi: #002F5D (ana kurumsal renk)
+2. Turuncu / Sarı Vurgu: #F58220
+3. Gri (Metin & Arka Plan için): #555555 / #888888
+4. Açık Yeşil (Destekleyici vurgu): #7AC943
+
+📌 BUTTONS & CTA
+----------------
+- Primary Button: Arka plan #F58220 (Turuncu), yazı rengi beyaz, radius 6px
+- Secondary Button: Arka plan #002F5D (Mavi), yazı rengi beyaz, radius 6px
+- Hover durumunda ton %10 koyulaşmalı
+
+📌 LAYOUT & STYLE
+-----------------
+- Arka plan genelde beyaz (#FFFFFF)
+- Başlıklar koyu, net ve büyük puntolu
+- Body metin okunabilirlik için 16px - 18px Proxima Nova Regular
+- Bölümler arasında geniş boşluk (white space) kullanımı
+- İkon ve görsel destekli modül tanıtımları
+
+📌 IMAGERY
+-----------
+- Metal endüstrisine uygun, modern ve teknik görseller
+- Flat ikon setleri (çizgisel ikonlar)
+- Müşteri referansları için logo slider

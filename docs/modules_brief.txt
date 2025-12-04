@@ -1,0 +1,470 @@
+📦 STOK VE DEPO YÖNETİMİ (DETAILED)
+
+Maxsteel ERP’nin stok ve depo yönetimi modülü, sac, bobin, levha ve yarı mamul metal ürünlerin üretim öncesi, üretim sırası ve üretim sonrası tüm hareketlerinin takibini sağlar.
+Bu modül, özellikle lot bazlı izlenebilirlik, sertifika yönetimi, fiziksel konumlama ve maliyet hesaplama gibi sektörün kritik ihtiyaçlarını karşılamak üzere tasarlanmıştır.
+
+Temel Özellikler:
+
+Malzeme detaylarının, hem fiziksel (boy, en, kalınlık, ağırlık) hem de kalite (sertifika, mukavemet, çekme testi vb.) parametreleriyle takibi
+
+Malzeme hareketlerinin barkodlu sistem ile anlık takibi
+
+Farklı depo tiplerinin yönetimi (üretim deposu, fire deposu, karantina deposu)
+
+Fiziksel konum bazlı raf/slot izleme
+
+FIFO, LIFO, Ortalama Maliyet yöntemleriyle stok değerlemesi
+
+Hızlı mal kabul entegrasyonu ve tedarikçi sertifika eşlemesi
+
+Stok kartı içinde sertifika dokümanı, resim, test verisi, etiket gibi dosya ekleme özellikleri
+
+Paletleme işlemleri ve birden fazla bobinin tek referansla taşınması
+
+Geriye dönük bobin/sac izleme, hangi üretimde kullanıldığının analizi
+
+Metal Sektörüne Özgü Ek Fonksiyonlar:
+
+Bobin/sac üzerinde kalan artık parçaların fire/müşteri fire ayrımıyla takibi
+
+Aynı malzemenin farklı kalite sınıflarında ayrı ayrı depolanabilmesi
+
+Hurda, fire, red gibi negatif stok durumlarının neden bazlı raporlanması
+
+🏭 ÜRETİM PLANLAMA VE İŞ EMRİ YÖNETİMİ (DETAILED)
+
+Maxsteel’in üretim modülü, proses bazlı üretim yapan metal işletmeleri için yapılandırılmıştır. Özellikle dilme, kesme, kaplama gibi proseslerde çoklu operasyon, yardımcı malzeme takibi ve fire tahmini gibi kritik ihtiyaçlar adreslenmiştir.
+
+Temel Bileşenler:
+
+Ürün ağaçları (BOM) üzerinden operasyon dizini tanımı
+
+Ana üretim planı (MPS) ve Malzeme İhtiyaç Planı (MRP) entegrasyonu
+
+Yarı mamul tanımı, ayrı stok kodu üzerinden takip
+
+İş merkezleri, makine kapasiteleri ve vardiya planları ile üretim yükleme
+
+Operasyonların öncelik sırasına göre makine ataması
+
+Sipariş bazlı ya da stoğa üretim seçeneği
+
+Proses Bazlı İşlevler:
+
+Bobin dilme planı oluşturma: Bir bobinin kaç parçaya bölüneceği, hangi müşteriye gideceği
+
+Kesim işleminde sac ebatlama planı ve hurda oranı takibi
+
+Net → Brüt dönüşüm (sarf ve fire dahil) matematiksel hesaplarla otomatik yapılır
+
+Proseslerdeki yardımcı malzeme (yağ, koruyucu film) tüketiminin otomatik düşülmesi
+
+Üretim sonucu oluşan hurda, fire, kırpıntı gibi yan çıktılar için stok hareketi
+
+İleri Seviye Özellikler:
+
+Üretim operasyonlarının barkodla takibi
+
+Reçete versiyonları ve geçerlilik tarihleri
+
+ERP içinden üretim planı onay süreci
+
+Gantt chart’ta iş yükü dengesi ve kritik yol analizi
+
+🧾 SATIN ALMA YÖNETİMİ (DETAILED)
+
+Tedarik zincirinin yönetildiği bu modül, hem standart satın alma süreçlerini hem de kontratlı alım, kaliteye bağlı tedarikçi puanlama gibi özel senaryoları destekler.
+
+Ana İşlevler:
+
+Minimum/optimum stok seviyelerine göre malzeme talebi oluşturma
+
+Sipariş, irsaliye ve fatura ilişkisi (3-yollu kontrol)
+
+Tedarikçi teklif talepleri ve otomatik karşılaştırma tabloları
+
+Onay akışları (teklif → sipariş → sevkiyat)
+
+Yıllık sözleşmeye bağlı malzeme tedarik yönetimi
+
+Alternatif tedarikçi listesi
+
+Kalite ile Entegre Fonksiyonlar:
+
+Her satın alma kalemine tedarikçi kalite puanı atama
+
+Malzeme kabul kontrolü ile otomatik kalite testi planı oluşturma
+
+Red/karantina gelen ürünlerin otomatik olarak diğer modüllere yansıtılması
+
+Diğer Özellikler:
+
+Masraf merkezi bazlı satın alma (üretim, bakım, idari)
+
+İthalat süreçleri: Gümrük, taşıma ve döviz kur farklarının maliyetlere etkisi
+
+E-fatura entegrasyonu
+
+
+💼 SATIŞ & CRM YÖNETİMİ (DETAILED)
+
+Maxsteel ERP’nin satış ve CRM modülü, müşteriye teklif verilmesinden başlayarak teslimat sonrası süreçleri kapsayan tam entegre bir yapı sunar.
+Özellikle metal sektöründe karşılaşılan “müşteriye özel ebat”, “ağırlık bazlı fiyatlama” ve “sertifika gereklilikleri” gibi konular özel olarak ele alınmıştır.
+
+Satış Süreçleri:
+
+Teklif oluşturma: Bobin/sac türüne, ölçüye ve kalınlığa göre otomatik fiyatlandırma
+
+Siparişin sevkiyat tipi ve ambalaj türüne göre maliyet simülasyonu
+
+Kısmi sevkiyat destekli sipariş işleme
+
+Müşteriye özel stok rezervasyonu
+
+Kur farkı, hurda bedeli, nakliye primi gibi yan kalemlerin otomatik eklenmesi
+
+Sevkiyat sertifikalarının dijital eklerle iletilmesi
+
+CRM İşlevleri:
+
+Potansiyel müşteri takip ekranı
+
+Ziyaret planı, arama ve teklif takibi
+
+Satış ekibi performans takibi
+
+Otomatik teklif hatırlatma ve dönüş oranı hesaplama
+
+Müşteri Bazlı Fiyatlandırma:
+
+Ton başı, metre başı veya levha bazlı fiyat alternatifi
+
+Kur bazlı anlık hesaplama (USD, EUR)
+
+Kampanya ve iskonto yönetimi
+
+Müşteriye özel fiyat listeleri (validite tarihli)
+
+Satış Sonrası:
+
+İade süreci, kalite şikâyetleri ile CRM bağlantısı
+
+Her müşteri için “memnuniyet geçmişi” puanlama
+
+🧪 KALİTE KONTROL & LABORATUVAR YÖNETİMİ (DETAILED)
+
+Metal sektöründe özellikle mekanik testler, çekme değerleri ve yüzey kalitesi gibi kriterlerin ERP içinde izlenmesi elzemdir.
+Maxsteel, hem girişte hem proses sırasında hem de çıkışta bu kalite kontrol noktalarını merkezi olarak yönetir.
+
+Kalite Noktaları:
+
+Giriş kalite kontrol: Mal kabul sırasında otomatik test çağırma
+
+Proses kalite kontrol: Operasyon sonrası veya vardiya başında numune alımı
+
+Çıkış kalite kontrol: Sevkiyat öncesi müşteri sertifikasının hazırlanması
+
+Test Tipleri:
+
+Kimyasal analiz
+
+Çekme testi
+
+Yüzey ölçüm ve pürüzlük analizi
+
+Kalınlık ölçüm
+
+Raporlama ve Sertifikalar:
+
+Her üretim için otomatik test raporu oluşturma
+
+Sertifika dökümantasyonu: EN, DIN, ASTM gibi normlara uygun PDF
+
+Test geçmişi üzerinden müşteri/malzeme/makine bazlı kalite grafikleri
+
+Kalite sapması durumunda otomatik yeniden işleme/fason talebi oluşturma
+
+Kalite Performansı:
+
+Red, iade ve şikâyet oranlarına göre tedarikçi puanlaması
+
+Sürekli iyileştirme aksiyonları ve “8D Raporlama” altyapısı
+
+📊 KARAR DESTEK & İŞ ZEKASI (DETAILED)
+
+Veriye dayalı karar alma süreçleri için geliştirilen karar destek modülü, tüm modüllerde toplanan verileri tek bir merkezde görselleştirme imkânı sunar.
+
+Dashboard Özellikleri:
+
+Üretim performansı (OEE, Duruş nedenleri, hurda oranı)
+
+Stok devir hızı ve rotasyon raporları
+
+Satın alma gecikme endeksi
+
+Müşteri sipariş dönüşüm oranları
+
+Finansal görünüm: Açık bakiye, tahsilat vadesi, risk limiti
+
+Teknik Altyapı:
+
+OLAP yapılı çok boyutlu raporlama
+
+Pivot tablo destekli detay inceleme
+
+Modül bazlı KPI ekranları
+
+Kullanıcıya özel dashboard tasarımı
+
+Excel aktarımı ve zamanlanmış rapor servisleri
+
+Yönetici Göstergeleri:
+
+Yönetim paneli ile satış, üretim, finans, kalite göstergeleri tek bakışta
+
+Aksiyon öneren akıllı sistem (stok fazlası, fire yüksekliği, arıza tekrarı)
+
+🧑‍💼 İNSAN KAYNAKLARI & PERSONEL YÖNETİMİ (DETAILED)
+
+Personel bazlı üretim verimliliği, puantaj, vardiya takibi ve ödül/ceza sistemleri, metal sektöründe doğrudan operasyonel verimliliğe etki eder.
+
+Özellikler:
+
+Personel kartı: Eğitim, yetkinlik, SGK, özlük bilgileri
+
+Vardiya planları ve puantaj çizelgeleri
+
+Fazla mesai otomatik hesaplama
+
+Vardiya bazlı verimlilik ölçümü
+
+İş kazası ve İSG kayıtları
+
+Personel üzerinden kalite sapma/üretim arızası takibi
+
+Performansa bağlı prim hesaplama
+
+🥇 SONUÇ:
+
+Maxsteel ERP, metal sektörünün en karmaşık üretim ve lojistik süreçlerini entegre şekilde yöneten, uçtan uca dijital dönüşüm sağlayan bir altyapıdır.
+Tüm modüller arası tam entegrasyon, barkod ve belge yönetimiyle zenginleştirilmiş kullanıcı deneyimi, sektöre özel detaylara hâkim mimarisiyle gerçek bir kurumsal çözüm sunar.
+
+⚙️ ÜRETİM PLANLAMA & TAKİP (MRP II)
+
+Maxsteel ERP’nin üretim modülü, metal sektörüne özel değişken üretim parametrelerini, iş akışlarını ve kapasite kullanımını %100 dijital şekilde yöneten bir MRP-II altyapısı sunar.
+Özellikle bobin, sac, levha, profil, boru gibi ürünlerin boy, en, kalınlık gibi değişkenlerinin her aşamada izlenmesi mümkündür.
+
+📌 Temel Fonksiyonlar:
+
+İş Emri Oluşturma: Satış siparişi bazlı veya stok yenileme bazlı otomatik iş emri üretimi.
+
+Üretim Reçetesi (BoM): Malzeme – operasyon – kaynak yapısının tanımlanması.
+
+Üretim Rotası: Hangi üretim hattında hangi işlem sırasıyla yapılacak? Adım adım tanım.
+
+İş İstasyonu Yönetimi: Pres, dilme, boy kesme, kaynak, paketleme vb. makinelere özel istasyon tanımları.
+
+Kapasite Planlama: Operasyon süresi, hazırlık süresi ve vardiya planları ile entegre kapasite hesabı.
+
+Termin Hesaplama: İş yükü, kapasite ve mevcut stoklar dikkate alınarak gerçek zamanlı teslimat tarihi tahmini.
+
+🔁 Takip ve İzlenebilirlik:
+
+Gerçek Zamanlı Üretim İzleme: Barkod entegrasyonu sayesinde her operasyon sonunda üretim takibi.
+
+Üretim Süreci Geriye İzleme: Hangi ürün, hangi makinede, hangi vardiyada, kim tarafından üretildi?
+
+İleriye İzleme (Traceability): Kalitesiz çıkan bir ürünün hangi ham madde ve işçilikten geldiği tespiti.
+
+Fire Takibi ve Geri Kazanım: Üretim sırasında oluşan firelerin otomatik raporlanması, tekrar kullanıma uygun olanların ayrılması.
+
+📈 Raporlama ve Performans:
+
+OEE (Overall Equipment Effectiveness): Makine, iş gücü ve kaliteye bağlı üretim verimliliği hesaplaması.
+
+Üretim Karlılığı: Sipariş bazında işçilik + enerji + sarf + fire maliyetlerinin hesaplanması.
+
+Üretim Performans Kıyaslaması: Personel, makine ve vardiya bazlı verimlilik karşılaştırmaları.
+
+🧠 Akıllı Uyarılar:
+
+Stokta olmayan veya geç teslim edilecek hammaddeler için erken uyarı.
+
+Kapasite aşımı durumunda yeniden planlama önerisi.
+
+Geciken iş emirleri için kırmızı uyarı kartı sistemi.
+
+🛒 SATIN ALMA YÖNETİMİ
+
+Maxsteel ERP’nin Satın Alma modülü, üretim süreçlerine entegre, zamanında ve doğru tedarik yönetimi sağlamak üzere kurgulanmıştır.
+Özellikle metal sektöründe sık karşılaşılan kur dalgalanmaları, tedarikçi gecikmeleri ve fason tedarik yapısı bu modül aracılığıyla kontrol altına alınır.
+
+📌 Temel Fonksiyonlar:
+
+Tedarikçi Yönetimi: Cari kayıtlarında fiyat listesi, geçmiş siparişler, ödeme performansı ve kalite puanı tutulur.
+
+Teklif Toplama: Tek tıkla çoklu tedarikçiden teklif istenir; fiyat, termin ve teslim koşulları karşılaştırmalı gösterilir.
+
+Satın Alma Siparişi (SAS) Oluşturma: Teklif veya stok ihtiyacına göre manuel veya otomatik sipariş üretimi.
+
+Onay Mekanizması: Yetkili hiyerarşisine göre kademeli onay akışı; mail ve sistem içi bildirim desteği.
+
+Fiyat Anlaşmaları: Uzun vadeli tedarik anlaşmaları, sabit fiyat, teslimat takvimi ve ödeme planı içerebilir.
+
+🔄 Entegrasyon ve Otomasyon:
+
+MRP Entegrasyonu: Malzeme ihtiyaç planından otomatik olarak satın alma önerileri alınır.
+
+Üretim Planı Uyarıları: Üretimi aksatabilecek geciken satın almalar için otomatik uyarı sistemi.
+
+Depo Giriş Otomasyonu: Satın alınan ürünler barkodla depoya girerken otomatik fişlenir.
+
+Kalite Kontrolle Bağlantı: Kritik ürünlerde mal kabul aşamasında kalite kontrol zorunluluğu.
+
+💱 Kur & Döviz Takibi:
+
+Çoklu Dövizli Siparişler: USD, EUR, GBP gibi para birimlerinde sipariş verilebilir.
+
+Kur Tarihi Sabitleme: Sipariş tarihindeki Merkez Bankası kuru sabitlenerek fiyat sapması engellenir.
+
+Kur Farkı Raporları: Ödeme ve fatura tarihlerine göre oluşan kur farkları ayrı ayrı raporlanır.
+
+📊 Raporlama:
+
+Tedarikçi Performans Analizi: Teslimat süresi, kalite, fiyat sapması ve müşteri memnuniyeti bazlı puanlama.
+
+Satın Alma Maliyeti Raporları: Ürün, kategori ve dönem bazında birim fiyat analizleri.
+
+Geç Teslimatlar: Hangi siparişler ne kadar geç teslim edildi, toplam maliyeti nedir?
+
+📦 STOK & DEPO YÖNETİMİ
+
+Maxsteel ERP’nin Stok ve Depo Yönetimi modülü, sac, bobin, levha, boru, profil gibi ölçüsel nitelikli ürünleri takip edebilecek milimetre hassasiyetinde, barkod tabanlı ve parti/lot no kontrollü bir altyapı sunar.
+Depolardaki ürün hareketlerini, fireleri, yarı mamulleri ve fason dönüşlerini eksiksiz izler.
+
+📌 Temel Özellikler:
+
+Ölçüsel Stok Takibi: Ürünlerin sadece adet değil, en, boy, kalınlık, ağırlık, m², mt gibi ölçü birimleriyle takibi.
+
+Bobin Numarası / Parti Takibi: Her ürün üretildiği andan itibaren sistemde tekil bir kimlik numarası ile etiketlenir.
+
+Stok Durumu Kodları: Her ürünün o anki durumu (hazır stok, ayırtılmış, bloke, kontrol bekleyen vs.) sistemde tanımlı.
+
+Fason Giriş-Çıkışlar: Tedarikçiye gönderilen yarı mamul veya hammadde dönüşleriyle sistematik olarak ilişkilendirilir.
+
+Depolar Arası Transfer: Farklı şehirlerdeki ya da bina içi depo alanları arasında ürün hareketleri entegre edilir.
+
+🧾 Barkod & Lokasyon Yönetimi:
+
+Barkodlu Depolama: Ürünlerin üzerinde QR/barcode etiketleriyle her birim tanımlanır ve mobil el terminalleriyle okunabilir.
+
+Raf Lokasyonları: Raf, sıra, katman bazlı tanımlama ile ürünün fiziki konumu sistemde gösterilir.
+
+Toplu Hareketler: Aynı anda yüzlerce ürün hareketi yapılabilir; sistem loglama ile izleme yapar.
+
+Sayım Modülü: Mobil cihazla depo sayımı, sistem ile otomatik karşılaştırma, eksik/fazla uyarıları.
+
+🔄 Üretim & Satış Entegrasyonu:
+
+Üretimden Otomatik Giriş: Tamamlanan iş emirleriyle birlikte mamuller otomatik olarak stoklara girer.
+
+Satış Ayırmaları: Satış siparişiyle eşleştirilen ürünler sistemde otomatik olarak ayrılır ve başka bir siparişte kullanılamaz.
+
+Yarı Mamul Takibi: Üretim süreçlerinde henüz tamamlanmamış parçalar “ara stok” olarak takip edilir.
+
+📊 Raporlama:
+
+Stok Yaşlanma Analizi: Hangi ürün ne kadar süredir depoda bekliyor? Satılmayan stoklar belirlenir.
+
+Stok Devir Hızı: Ürün kategorilerine göre stokların elde tutulma süreleri hesaplanır.
+
+Minimum / Maksimum Seviye Kontrolü: Otomatik uyarı sistemiyle stok alt sınırları takip edilir.
+
+🔄 FASON & DIŞ İŞLEM YÖNETİMİ
+
+Maxsteel ERP’nin Fason ve Dış İşlem modülü, metal sektöründe sıklıkla kullanılan fason üretim süreçlerini eksiksiz şekilde izlemek, maliyetlendirmek ve kalite kontrolünü sağlamak amacıyla geliştirilmiştir.
+Bu modül sayesinde dışarıda yapılan her işlem şirketin kendi iç süreciymiş gibi izlenebilir, maliyetler üretime dahil edilebilir ve kontrol altına alınabilir.
+
+📌 Temel Özellikler:
+
+Fason İş Emri Oluşturma: Dilme, boy kesme, kaplama, ısıl işlem gibi dışarıda yapılacak operasyonlar için iş emri oluşturulabilir.
+
+Tedarikçi Bazlı Operasyon Tanımı: Hangi tedarikçi hangi işlemleri yapabilir, işlem süresi ve fiyatı nedir? Tanımlanır.
+
+Sevk & Kabul Yönetimi: Fason gönderilecek ürünler için sevk irsaliyesi, dönüşte kabul irsaliyesi sistem üzerinden düzenlenir.
+
+Giriş Kalite Kontrol: Dönüş yapan mamuller için istenirse zorunlu kalite kontrol süreci başlatılır.
+
+📦 Malzeme Takibi:
+
+Fason Giden Ürün Takibi: Hangi üründen kaç adet gönderildi, hangi fason operasyona tabi tutuldu, dönüşü ne zaman bekleniyor?
+
+Fire ve Zayiat Kayıtları: Fason işlemde meydana gelen fireler sisteme işlenerek üretim verimliliği izlenir.
+
+Dönüş Zamanı Otomasyonu: Belirli gün geçmesine rağmen dönmeyen ürünler için otomatik uyarı sistemi devreye girer.
+
+💰 Maliyetlendirme:
+
+Fason Maliyet Dağılımı: Ürün başına, kg başına ya da işlem süresi bazında otomatik fason maliyet hesaplama.
+
+Toplam Üretim Maliyetine Dahil Etme: Fason işlemler üretim reçetelerine dahil edilerek nihai maliyete eklenebilir.
+
+Fason Tedarikçi Karşılaştırması: Aynı işlem için birden fazla tedarikçinin performans ve fiyat karşılaştırması yapılabilir.
+
+📊 Raporlama:
+
+Fason Takip Listeleri: Hangi tedarikçide hangi ürünler, kaç gündür bekliyor? Grafik ve tablo bazlı listeler.
+
+İşlem Süresi Analizi: Hangi operasyon ortalama kaç gün sürüyor? Hangi tedarikçi daha hızlı?
+
+Fason Maliyet Raporları: Ürün bazında toplam fason maliyeti, adet başına düşen maliyet ve zamanlama verileri.
+
+💳 FİNANS & MALİYET YÖNETİMİ
+
+Maxsteel ERP’nin Finans ve Maliyet Yönetimi modülü, işletmenin tüm finansal hareketlerini, tahsilat/ödeme takibini ve ürün bazlı maliyet hesaplamalarını üretim süreçlerine entegre bir şekilde yönetir.
+Metal sektöründe yaşanan sık kur değişimleri, hammadde fiyat dalgalanmaları ve fason işlemlerin karmaşık maliyet yapısı bu modül üzerinden şeffaf ve izlenebilir hale gelir.
+
+📌 Temel Fonksiyonlar:
+
+Cari Hesap Takibi: Tedarikçiler, müşteriler ve fason firmaların tüm borç-alacak dengesi sistem üzerinden izlenir.
+
+Tahsilat & Ödeme Planları: Her sipariş için vade, taksit, ödeme günü tanımlanabilir ve otomatik hatırlatmalar alınır.
+
+Banka & Kasa Yönetimi: Gerçek zamanlı olarak banka ve kasa hareketleri takip edilir. Farklı döviz cinsleri desteklenir.
+
+Çek & Senet Takibi: Vadeli çek ve senetlerin giriş, çıkış, tahsil, teminat gibi durumları adım adım izlenir.
+
+📈 Maliyet Muhasebesi:
+
+Sipariş Bazlı Maliyetleme: Her siparişin doğrudan ve dolaylı giderleri, işçilik, enerji, fason hizmet gibi kalemlerle sistemde tutulur.
+
+Reçete Bazlı Maliyet: Ürün reçetelerine bağlı olarak hammaddeden işçiliğe kadar birim üretim maliyeti hesaplanır.
+
+Fason Dahil Maliyet Analizi: Dış kaynaklı işlemlerin ürün maliyetine nasıl etki ettiği izlenebilir.
+
+Stokta Bekleme Maliyeti: Ürünlerin depoda ne kadar süre kaldığına bağlı maliyet raporları oluşturulur.
+
+💱 Döviz & Kur Takibi:
+
+Kur Farkı Hesaplaması: Alış ve ödeme tarihi arasında oluşan kur farkı sistem tarafından otomatik kaydedilir.
+
+Dövizli Sipariş & Ödeme Yönetimi: USD, EUR, GBP gibi dövizlerle sipariş alınabilir ve ödemeler bu para birimlerinde yapılabilir.
+
+🧾 Entegrasyon:
+
+Satış & Satın Alma ile Bağlantı: Her işlem finans modülüne entegredir. Faturalaşma sonrası otomatik kayıt oluşur.
+
+Üretimle Entegre Maliyet: Üretim süreciyle eş zamanlı olarak maliyet oluşur. Sonradan manuel giriş gerekmez.
+
+Muhasebe Paketleriyle Veri Aktarımı: Mikro, ETA, Logo gibi dış muhasebe programlarına otomatik veri aktarımı yapılabilir.
+
+📊 Raporlama:
+
+Nakit Akış Projeksiyonu: Planlı tahsilat ve ödemelere göre ileriye dönük nakit durumu analiz edilir.
+
+Maliyet Dağılım Analizi: Ürün, kategori ve departman bazlı maliyet karşılaştırmaları yapılır.
+
+Kârlılık Raporları: Sipariş, müşteri ve ürün bazlı kârlılık analizi yapılabilir.
+
+✅ TAM ENTEGRASYON İMKANI:
+Tüm modüller birbirine entegre çalıştığı için, bir satış siparişinden başlayarak üretim, satın alma, stok, kalite, sevkiyat ve finans süreçleri tek bir veri akışı içinde tamamlanır.

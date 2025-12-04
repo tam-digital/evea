@@ -1,0 +1,93 @@
+-------------------------------------------------------------
+| HERO BÖLÜMÜ                                               |
+| [Büyük Başlık: Dijital Dönüşümün Kalbindeyiz]             |
+| [Kısa Slogan: ERP’den üretim verimliliğine tam kontrol]  |
+| [CTA Buton: “Projelerimizi İnceleyin”]                    |
+-------------------------------------------------------------
+| KURUCULARIMIZ HAKKINDA                                    |
+| [Erdem Yüce Foto + Biyografi] | [Tufan Çakıroğlu Foto + Biyografi] |
+-------------------------------------------------------------
+| MİSYON & VİZYON                                           |
+| [Kurumsal metinle açıklanmış bölümler]                   |
+-------------------------------------------------------------
+| NELER YAPIYORUZ?                                          |
+| [Bullet List / Icons ile: ERP, Üretim, Stok, CRM, vs.]   |
+-------------------------------------------------------------
+| TECRÜBEMİZ / GEÇMİŞİMİZ                                   |
+| [Workcube dönemi projeleri ve sahadan edinilen deneyim]  |
+-------------------------------------------------------------
+| DEĞERLERİMİZ & NEDEN EVEA?                                |
+| [Bullet list, güvenilirlik, teknik kalite, destek vb.]   |
+-------------------------------------------------------------
+| FOOTER / İLETİŞİM                                         |
+| [Adres, sosyal medya, e-posta, telefon]                  |
+-------------------------------------------------------------
+
+Giriş
+
+Evea Bilişim, dijital dönüşümün hızla şekillendirdiği üretim ve sanayi dünyasında, firmaların ihtiyaç duyduğu özel yazılım çözümlerini geliştirmek amacıyla kurulmuş bir teknoloji firmasıdır. Ankara merkezli olarak faaliyet gösteren şirketimiz, özellikle metal ve üretim sanayii başta olmak üzere birçok sektörde iş süreçlerini dijitalleştirerek daha verimli, ölçülebilir ve sürdürülebilir hale getirmeyi hedeflemektedir.
+
+Evea, kurucuları Erdem Yüce ve Tufan Çakıroğlu’nun uzun yıllara dayanan saha ve yazılım deneyimini arkasına alarak, kendi geliştirdiği ERP altyapısı Maxsteel ile, müşterilerine uçtan uca entegre yazılım çözümleri sunmaktadır.
+
+Kurucularımız
+👨‍💼 Erdem Yüce – Kurucu Ortak & Yazılım Mimarisi Sorumlusu
+
+Yazılım geliştirme ve sistem mimarisi alanında derin bir uzmanlığa sahip olan Erdem Yüce, kariyerinin büyük bölümünü ERP altyapıları ve üretim sistemleri üzerine yoğunlaştırmıştır. Yazılımın yalnızca teknolojik bir çıktı değil, aynı zamanda operasyonel mükemmellik sağlayan bir altyapı olduğuna inanan Yüce, Evea’nın modüler sistemlerinin temel mimarisini inşa etmiştir.
+
+👨‍💼 Tufan Çakıroğlu – Kurucu Ortak & Proje ve Süreç Geliştirme Sorumlusu
+
+Tufan Çakıroğlu, iş süreçlerinin analiz edilmesi, yeniden yapılandırılması ve sektörel ihtiyaçlara göre optimize edilmesinde uzmanlaşmıştır. Müşteri ilişkileri, eğitim süreçleri, danışmanlık hizmetleri ve sahadaki projelerin yönetiminde aktif görev almaktadır. Gerek Workcube döneminde gerekse Evea çatısı altında onlarca orta ve büyük ölçekli projede başarılı dönüşüm süreçlerine liderlik etmiştir.
+
+Vizyonumuz
+
+Türkiye’nin endüstriyel sektörlerinde teknolojik dönüşümün öncüsü olmak. Geliştirdiğimiz yerli ve esnek çözümlerle işletmelerin sadece bugünkü değil, gelecekteki ihtiyaçlarını da karşılayan bir dijital altyapı sunmak.
+
+Misyonumuz
+
+Her işletmenin kendi dinamiklerine özel yazılım çözümlerine ihtiyaç duyduğu bilinciyle, modüler ve ölçeklenebilir sistemler geliştirerek ERP, üretim planlama, satın alma, finans, CRM, stok yönetimi gibi temel iş alanlarında bütünsel bir kontrol ve izlenebilirlik sağlamak.
+
+Neler Yapıyoruz?
+
+Evea Bilişim olarak geliştirdiğimiz Maxsteel ERP altyapısıyla;
+
+Metal işleme, üretim, montaj, ambalajlama gibi operasyonları uçtan uca dijitalleştiriyoruz.
+
+Üretimden satışa, satın almadan sevkiyata kadar tüm süreçleri tek platformdan yönetilebilir hale getiriyoruz.
+
+İşletmelerin gerçek zamanlı veriyle karar almasını sağlayan panolar ve KPI sistemleri sunuyoruz.
+
+Tüm departmanların kendi iş akışlarına özel yapılandırmalar yaparak maksimum verim elde etmelerini sağlıyoruz.
+
+Sahada kullanımı kolay, mobil uyumlu, modüler ve güvenilir sistemler geliştiriyoruz.
+
+Tecrübemiz Nereden Geliyor?
+
+Kurucularımızın uzun yıllar boyunca Workcube ERP çatısı altında yürüttüğü projeler, Evea'nın sahaya ne kadar hâkim olduğunu ortaya koymaktadır. Bu deneyim sayesinde, yalnızca yazılım üretmiyor; aynı zamanda sektörlerin iç dinamiklerini bilen bir danışman gibi çalışıyoruz.
+
+Bugün, Türkiye'nin önde gelen üretim firmalarına, özelleştirilebilir yazılım modülleri ve iş süreçleriyle destek oluyoruz. Her modülümüz, doğrudan sahadaki problemler göz önünde bulundurularak geliştirilmiş; teoriden değil, uygulamadan beslenmiştir.
+
+Değerlerimiz
+
+Yerli ve Güçlü Altyapı: Tüm çözümlerimiz Türk mühendisler tarafından geliştirilmektedir.
+
+Müşteri Odaklılık: Her işletme özeldir. Bu bilinçle esnek çözümler sunarız.
+
+Sürdürülebilirlik: Sistemlerimiz büyüyen şirketlerin ihtiyaçlarına paralel olarak ölçeklenebilir.
+
+Şeffaflık ve Güven: Tüm proje süreçlerinde iletişim açık ve net şekilde yürütülür.
+
+Teknik Mükemmeliyet: Yalnızca çalışan değil, verimli ve entegre çalışan sistemler geliştiririz.
+
+Neden Evea?
+
+✅ 15+ Yıllık Tecrübe
+
+✅ Sahada Test Edilmiş Sistemler
+
+✅ Hızlı Kurulum ve Eğitim Süreci
+
+✅ Modüler ve Esnek Yapı
+
+✅ Güçlü Destek & Danışmanlık Ekibi
+
+✅ Sektörel Çözüm Uyumları

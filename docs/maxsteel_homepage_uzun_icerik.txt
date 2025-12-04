@@ -1,0 +1,67 @@
+
+MAXSTEEL ERP - ANA SAYFA UZUN TEKNİK METİN (METAL SEKTÖRÜ ODAKLI)
+===================================================================
+
+🚀 Maxsteel ERP ile Tanışın
+Metal Sektörüne Özel Geliştirilmiş %100 Web Tabanlı ERP Çözümü
+
+Maxsteel ERP, çelik servis merkezleri, haddehaneler, boru-profil üreticileri gibi metal endüstrisinin tüm ihtiyaçlarına cevap verebilecek şekilde geliştirilmiş, %100 web tabanlı ve entegre bir iş yazılımıdır. MES (Manufacturing Execution System), CRM, SCM, HRM, PAM, PM ve FM gibi kurumsal fonksiyonları tek bir platformda birleştirerek işinizi uçtan uca dijitalleştirmenizi sağlar.
+
+
+🔧 Neden Maxsteel?
+Karmaşık İş Süreçlerini Basitleştiren Yapı
+
+Metal sektörünün doğası gereği sahip olduğu karmaşık satın alma, üretim, kalite, sevkiyat ve finans döngülerini sadeleştirerek, hızlı, çevik ve yüksek verimli süreçler oluşturur.
+• Parça-bazlı izlenebilirlik
+• Ürün-müşteri konfigürasyonu
+• Kesme, dilme, şekillendirme, sevkiyat optimizasyonları
+• Tüm süreçlerin raporlanabilirliği
+• %100 web tabanlı, lokasyon bağımsız yönetim
+
+
+🔩 Hangi Sorunları Çözüyor?
+- Karışık üretim hatlarında dijital takip zorluğu
+- Bobin, plaka, rulo gibi yarı mamullerin üretim süreci içinde izlenememesi
+- Operasyonel verimliliğin kontrol edilememesi
+- Sipariş-karşılık üretim eşleştirmesinin manuel yapılması
+- ERP ile CRM, Üretim ve Finans gibi modüllerin ayrı ayrı çalışması
+
+Maxsteel ile tüm bu sorunlar tek merkezden çözülür.
+
+
+🧱 Modüler Yapısı Sayesinde Uyum Sağlar
+İhtiyacınıza Göre Büyüyen Sistem
+
+Maxsteel ERP modüler bir yapıya sahiptir ve aşağıdaki başlıca fonksiyonları kapsar:
+
+- Stok & Satınalma: Minimum stok seviyesi takibi, tedarikçi performansı
+- Üretim & Planlama: Rota tanımı, operasyon çizelgesi, iş emri yönetimi
+- Kalite Kontrol: Numune alma, test takibi, kalite raporları
+- CRM & Satış: Tekliften faturalamaya tüm satış kanalları
+- İnsan Kaynakları & Bordro: Zimmet yönetimi, puantaj, bordro
+- Varlık & Finans Yönetimi: Sabit kıymet, amortisman, cari hesaplar
+
+
+🌐 %100 Web Tabanlı Altyapı
+- Sunucuya bağımlı olmayan mimari
+- Mobil uyumlu arayüz (responsive)
+- REST API ile 3. parti yazılımlarla entegrasyon
+- E-Devlet, e-Fatura, e-Arşiv, mobil bildirim ve SMS sistemlerine hazır altyapı
+- Gelişmiş kullanıcı yetkilendirme ve loglama sistemi
+
+
+🔍 Kimler İçin İdeal?
+- Çelik Servis Merkezleri
+- Haddehaneler
+- Boru/Profil Üreticileri
+- Lazer/Kesim/Torna atölyeleri
+- Sürekli döküm üreticileri
+- Otomotiv veya yapı sektörüne metal parça tedarik eden KOBİ’ler
+
+
+💡 Sonuç
+Maxsteel ERP = Rekabet Gücü + Operasyonel Mükemmellik
+
+Artık üretimden satışa, insan kaynaklarından sevkiyata kadar tüm süreçlerinizi tek bir platformdan yönetebilirsiniz. Dijital dönüşümde geç kalmayın.
+
+[Hemen Demo Talep Et] [Broşürü İndir]
